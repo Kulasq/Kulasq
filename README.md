@@ -14,7 +14,7 @@ Desenvolvedor Full Stack Python em formação...
 
 ### Tecnologias que estou aprendendo:
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="60"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="60px"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" width="60"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="60"/>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery" width="60"/>
