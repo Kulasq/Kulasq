@@ -2,7 +2,7 @@
 
 # Olá, me chamo Lucas Dantas! 👋
 
-Desenvolvedor Full Stack Python!
+Desenvolvedor Python!
 
 <div style="display: inline-block;">
   
