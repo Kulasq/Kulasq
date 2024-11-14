@@ -2,7 +2,7 @@
 
 # Olá, me chamo Lucas Dantas! 👋
 
-Desenvolvedor Full Stack Python em formação...
+Desenvolvedor Full Stack Python!
 
 <div style="display: inline-block;">
   
@@ -12,7 +12,7 @@ Desenvolvedor Full Stack Python em formação...
 
 </div>
 
-### Tecnologias que estou aprendendo:
+### Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=80px />
