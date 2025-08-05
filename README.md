@@ -14,6 +14,7 @@ Desenvolvedor Python!
 
 ### Tecnologias:
 
+<img src="https://github.com/user-attachments/assets/2ed73f99-9337-42a5-8884-89472e9ce8ac" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80px />
@@ -29,7 +30,6 @@ Desenvolvedor Python!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height=80px />
-<img src="https://github.com/user-attachments/assets/2ed73f99-9337-42a5-8884-89472e9ce8ac" height=80px />
 
 
 ### Contatos:
