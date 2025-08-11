@@ -15,6 +15,7 @@ Desenvolvedor Python!
 ### Tecnologias:
 
 <img src="https://github.com/user-attachments/assets/2ed73f99-9337-42a5-8884-89472e9ce8ac" height=80px />
+<img src="https://github.com/user-attachments/assets/6b3567ea-1dcf-435b-a20b-746da148bbef" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80px />
