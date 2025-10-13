@@ -41,7 +41,7 @@ Desenvolvedor Python!
 <a href="mailto:lucasdantas.11@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30"/>
 </a>
-<a href="https://www.linkedin.com/in/lucas-dantas-73936b27a" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-dantas-dev" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"/>
 </a>
 
