@@ -4,7 +4,7 @@
 
 <div style="display: inline-block;">
 
-  Detalhes
+ ### Detalhes:
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulasq&layout=compact&theme=dark"/>
   
@@ -32,6 +32,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height=80px />
 
+### Projetos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=bookstore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos:
 
