@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, me chamo Lucas Dantas! 👋
+# Olá! 👋
 
 Desenvolvedor Python!
 
@@ -35,16 +35,11 @@ Desenvolvedor Python!
 
 ### Contatos:
 
-<a href="https://www.instagram.com/kulasq" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="30"/>
-</a>
 <a href="mailto:lucasdantas.11@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30"/>
 </a>
 <a href="https://www.linkedin.com/in/lucas-dantas-dev" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"/>
 </a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kulasq)
 
 </div>
