@@ -32,9 +32,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height=80px />
 
-### Projetos:
+### Principais projetos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=bookstore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos:
 
