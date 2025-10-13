@@ -12,7 +12,7 @@ Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafi
 ### ⚙️ Detalhes
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulasq&layout=compact&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulasq&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulasq&show_icons=true&theme=dark"/> 
 
 </div>
 
