@@ -2,6 +2,10 @@
 
 # Olá! 👋
 
+###### Sobre Lucas:
+
+Desenvolvedor Full Stack Python, apaixonado por tecnologia, astronomia e tudo que envolve aprendizado contínuo.
+
 <div style="display: inline-block;">
 
  ### Detalhes:
