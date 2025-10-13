@@ -2,9 +2,9 @@
 
 # Olá! 👋
 
-Desenvolvedor Python!
-
 <div style="display: inline-block;">
+
+  Detalhes
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulasq&layout=compact&theme=dark"/>
   
