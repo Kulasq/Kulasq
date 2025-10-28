@@ -2,7 +2,7 @@
 
 # 👋 Olá!
 
-###### Sobre Lucas:
+###### Sobre:
 
 💻 Desenvolvedor Full Stack Python, apaixonado por tecnologia, astronomia e aprendizado contínuo.  
 Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafio.
