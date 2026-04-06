@@ -2,7 +2,7 @@
 
 # 👋 Olá!
 
-### Sobre:
+###### Sobre:
 
 💻 Desenvolvedor Full Stack Python, apaixonado por tecnologia, astronomia e aprendizado contínuo.  
 Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafio.
@@ -11,8 +11,8 @@ Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafi
 
 ### ⚙️ Detalhes
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulasq&layout=compact&langs_count=7&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulasq&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+![GitHub followers](https://img.shields.io/github/followers/Kulasq?style=for-the-badge&color=0D1117&labelColor=30363d&logo=github&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/Kulasq?style=for-the-badge&color=0D1117&labelColor=30363d&logo=github&logoColor=white)
 
 ---
 
@@ -32,10 +32,10 @@ Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafi
 
 ### 🚀 Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=bookstore&theme=dark)](https://github.com/Kulasq/bookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=efood&theme=dark)](https://github.com/Kulasq/efood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=Calculadora_media&theme=dark)](https://github.com/Kulasq/Calculadora_media)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=site-constelatte&theme=dark)](https://github.com/Kulasq/site-constelatte)
+[![bookstore](https://img.shields.io/badge/📚_Bookstore-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulasq/bookstore)
+[![efood](https://img.shields.io/badge/🍔_eFood-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulasq/efood)
+[![calculadora](https://img.shields.io/badge/🧮_Calculadora_Média-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulasq/Calculadora_media)
+[![constelatte](https://img.shields.io/badge/☕_Constelatte-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulasq/site-constelatte)
 
 ---
 
