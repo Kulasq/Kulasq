@@ -7,26 +7,28 @@
 💻 Desenvolvedor Full Stack Python, apaixonado por tecnologia, astronomia e aprendizado contínuo.  
 Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafio.
 
-<div style="display: inline-block;">
+---
 
 ### ⚙️ Detalhes
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulasq&layout=compact&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulasq&show_icons=true&theme=dark"/> 
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulasq&layout=compact&langs_count=7&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulasq&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+
+---
 
 ### 🧠 Tecnologias
 
-<img src="https://github.com/user-attachments/assets/2ed73f99-9337-42a5-8884-89472e9ce8ac" height=80px />
-<img src="https://github.com/user-attachments/assets/6b3567ea-1dcf-435b-a20b-746da148bbef" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height=80px />
+<img src="https://github.com/user-attachments/assets/2ed73f99-9337-42a5-8884-89472e9ce8ac" height="80px" />
+<img src="https://github.com/user-attachments/assets/6b3567ea-1dcf-435b-a20b-746da148bbef" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="80px" />
+
+---
 
 ### 🚀 Principais Projetos
 
@@ -34,6 +36,8 @@ Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=efood&theme=dark)](https://github.com/Kulasq/efood)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=Calculadora_media&theme=dark)](https://github.com/Kulasq/Calculadora_media)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kulasq&repo=site-constelatte&theme=dark)](https://github.com/Kulasq/site-constelatte)
+
+---
 
 ### 📬 Contatos
 
