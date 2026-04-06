@@ -11,8 +11,8 @@ Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafi
 
 ### ⚙️ Detalhes
 
-<img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api/top-langs/?username=Kulasq&layout=compact&langs_count=7&theme=dark" />
-<img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api?username=Kulasq&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api/top-langs/?username=Kulasq&layout=compact&langs_count=7&theme=dark&card_width=400" />
+<img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api?username=Kulasq&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400" />
 
 ---
 
