@@ -32,10 +32,10 @@ Gosto de transformar ideias em código e sempre busco evoluir a cada novo desafi
 
 ### 🚀 Principais Projetos
 
+[![Readme Card](https://github-readme-stats-beryl-three-54.vercel.app/api/pin/?username=Kulasq&repo=menu-livre&theme=dark)](https://github.com/Kulasq/menu-livre)
 [![Readme Card](https://github-readme-stats-beryl-three-54.vercel.app/api/pin/?username=Kulasq&repo=bookstore&theme=dark)](https://github.com/Kulasq/bookstore)
 [![Readme Card](https://github-readme-stats-beryl-three-54.vercel.app/api/pin/?username=Kulasq&repo=efood&theme=dark)](https://github.com/Kulasq/efood)
 [![Readme Card](https://github-readme-stats-beryl-three-54.vercel.app/api/pin/?username=Kulasq&repo=Calculadora_media&theme=dark)](https://github.com/Kulasq/Calculadora_media)
-[![Readme Card](https://github-readme-stats-beryl-three-54.vercel.app/api/pin/?username=Kulasq&repo=site-constelatte&theme=dark)](https://github.com/Kulasq/site-constelatte)
 
 ---
 
